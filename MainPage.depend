@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1685665095 source:g:\amit-materials\c-project\mainpage\sdb.c
+	"SDB.h"
+
+1685665574 g:\amit-materials\c-project\mainpage\sdb.h
+	"STD.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685577790 g:\amit-materials\c-project\mainpage\std.h
+
+1685664533 source:g:\amit-materials\c-project\mainpage\sdbapp.c
+	"SDB.h"
+
+1685580602 source:g:\amit-materials\c-project\mainpage\main.c
+	"SDB.h"
+
+1686228179 source:g:\amit_materials\c-project\mainpage\main.c
+	"SDB.h"
+
+1686252947 g:\amit_materials\c-project\mainpage\sdb.h
+	"STD.h"
+	<stdio.h>
+	<stdlib.h>
+
+1685577790 g:\amit_materials\c-project\mainpage\std.h
+
+1686243172 source:g:\amit_materials\c-project\mainpage\sdb.c
+	"SDB.h"
+
+1686243912 source:g:\amit_materials\c-project\mainpage\sdbapp.c
+	"SDB.h"
+
